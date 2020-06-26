@@ -1,0 +1,48 @@
+.h1 {
+    margin-left: 40px;
+    font-weight: bolder;
+    font-family: monospace;
+    background-size:cover;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.body{
+    background-color: #172A3A;
+    color: white;
+    font-family: monospace;
+    text-align: center;
+}
+
+.link{
+color:#75DDDD;
+}
+
+.par{
+font-size: 18px;
+margin-right: 500px;
+margin-left: 80px;
+}
+
+.score{
+    color: #09BC8A;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.scoore{
+    margin-left: 20px;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: white;
+}
+
+ul{
+ list-style-type:none; 
+}
